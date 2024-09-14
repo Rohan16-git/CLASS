@@ -1,0 +1,27 @@
+.op{
+    color: darkorchid;
+    text-decoration: dotted;
+    text-transform: lowercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#n1{
+    color: forestgreen;
+    text-transform: uppercase;
+    text-decoration: overline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    text-decoration: dotted;
+    background-color: burlywood;
+}
+/**{
+    background-image: url(./Images/140620201029364ov5.jpg);
+    background-repeat: no-repeat;
+}
+/*.color{
+   color: goldenrod;
+
